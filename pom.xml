@@ -8,11 +8,6 @@
   <name>webbcloudapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <build>
-    <pluginManagement>
-        <plugins>
-           ....
-        </plugins>
-    </pluginManagement>
 <build>
   <plugin>
     <groupId>org.apache.maven.plugins</groupId>
